@@ -1,260 +1,1287 @@
 {
-    "Houston": "America/Chicago",
-    "The Netherlands": "Europe/Amsterdam",
-    "Switzerland": "Europe/Zurich",
-    "Brooklyn": "America/New_York",
-    "Enschede": "Europe/Amsterdam",
-    "Spain ⇄ California": "Atlantic/Canary",
-    "Germany": "Europe/Berlin",
-    "Utrecht": "Europe/Amsterdam",
-    "Boston": "America/New_York",
-    "Philadelphia": "America/New_York",
-    "San Francisco": "America/Los_Angeles",
-    "New York": "America/New_York",
-    "Hangzhou": "Asia/Shanghai",
-    "Minneapolis": "America/Chicago",
-    "Grenoble": "Europe/Paris",
-    "UK": "Africa/Bangui",
-    "Canada": "America/Edmonton",
-    "天堂度假村": "Asia/Shanghai",
-    "Cambridge": "Europe/London",
-    "France": "Europe/Paris",
-    "Netherlands": "Europe/Amsterdam",
-    "Sofia": "Europe/Sofia",
-    "Bothell": "America/Los_Angeles",
-    "Malaysia": "Asia/Kuala_Lumpur",
-    "Turku": "Europe/Helsinki",
-    "South korea": "Asia/Seoul",
-    "Pessac": "Europe/Paris",
-    "Vancouver": "America/Vancouver",
-    "Ueda": "Asia/Tokyo",
-    "Munich": "Europe/Berlin",
-    "Chengdu": "Asia/Shanghai",
-    "Taiwan": "Asia/Taipei",
-    "HangZhou": "Asia/Shanghai",
-    "Peking University": "Asia/Shanghai",
-    "Paris": "Europe/Paris",
-    "NYC": "America/New_York",
-    "Italy": "Europe/Rome",
-    "Berlin": "Europe/Berlin",
-    "Beijing": "Asia/Shanghai",
-    "Zurich": "Europe/Zurich",
-    "Egypt": "Africa/Cairo",
-    "Sunnyvale": "America/Los_Angeles",
-    "London": "Europe/London",
-    "Montreal": "America/Toronto",
-    "Wellington": "Pacific/Auckland",
-    "Saskatchewan": "America/Regina",
-    "Ghent": "Europe/Brussels",
-    "Beijing China": "Asia/Shanghai",
-    "Poland": "Europe/Warsaw",
-    "Shanghai": "Asia/Shanghai",
-    "Tokyo": "Asia/Tokyo",
-    "Kraków": "Europe/Warsaw",
-    "Stuttgart": "Europe/Berlin",
-    "Las Vegas": "America/Los_Angeles",
-    "Székesfehérvár": "Europe/Budapest",
-    "Little Rock": "America/Chicago",
-    "Maranello": "Europe/Rome",
-    "Vienna": "Europe/Vienna",
-    "Los Angeles": "America/Los_Angeles",
-    "Aaramoun": "Asia/Beirut",
-    "Warsaw": "Europe/Warsaw",
-    "United Kingdom": "Europe/London",
-    "Denmark": "Europe/Copenhagen",
-    "Hong Kong": "Asia/Hong_Kong",
-    "Troyes": "Europe/Paris",
-    "Bogota": "America/Bogota",
-    "Kanagawa": "Asia/Tokyo",
-    "undefined": "Africa/Addis_Ababa",
-    "San Jose": "America/Los_Angeles",
-    "Dubai": "Asia/Dubai",
-    "Lyon": "Europe/Paris",
-    "California": "America/Los_Angeles",
-    "United States": "America/Chicago",
-    "Helsinki": "Europe/Helsinki",
-    "Idaho Falls": "America/Boise",
-    "Seattle": "America/Los_Angeles",
-    "Genoa": "Europe/Rome",
-    "Cuenca": "Europe/Madrid",
-    "Toronto": "America/Toronto",
-    "Sweden": "Europe/Stockholm",
-    "Japan": "Asia/Tokyo",
-    "Copenhagen": "Europe/Copenhagen",
-    "Kolkata": "Asia/Kolkata",
-    "Prague": "Europe/Prague",
-    "Texas": "America/Chicago",
-    "Amsterdam": "Europe/Amsterdam",
-    "Australia": "Australia/Darwin",
-    "Quebec": "America/Toronto",
-    "Weinheim": "Europe/Berlin",
-    "Redmond": "America/Los_Angeles",
-    "Oxford": "Europe/London",
-    "Hillsborough": "America/New_York",
-    "Graz": "Europe/Vienna",
-    "Bordeaux": "Europe/Paris",
-    "Madrid": "Europe/Madrid",
-    "Dresden": "Europe/Berlin",
-    "nyc": "America/New_York",
-    "Dunedin": "Pacific/Auckland",
-    "Toulouse": "Europe/Paris",
-    "Washington State": "America/Los_Angeles",
-    "Glasgow": "Europe/London",
-    "New Zealand": "Pacific/Auckland",
-    "Berkeley": "America/Los_Angeles",
-    "Wah Cantt": "Asia/Karachi",
-    "Brazil": "America/Cuiaba",
-    "Peking": "Asia/Shanghai",
-    "Nairobi": "Africa/Nairobi",
-    "Winnipeg": "America/Winnipeg",
-    "Portland": "America/Los_Angeles",
-    "Zürich": "Europe/Zurich",
-    "Austria": "Europe/Vienna",
-    "Arkansas": "America/Chicago",
-    "Moscow": "Europe/Moscow",
-    "Appleton": "America/Chicago",
-    "Joinville": "Europe/Paris",
-    "Kaiserslautern": "Europe/Berlin",
-    "Vietnam": "Asia/Ho_Chi_Minh",
-    "Singapore": "Asia/Singapore",
-    "Princeton": "America/New_York",
-    "Portugal": "Europe/Lisbon",
-    "Canberra": "Australia/Sydney",
-    "Czechia": "Europe/Prague",
-    "Veliko Tarnovo": "Europe/Sofia",
-    "Mountain View": "America/Los_Angeles",
-    "Turkey": "Europe/Istanbul",
-    "Sunshine Coast": "Australia/Brisbane",
-    "Cologne": "Europe/Paris",
-    "USA": "America/Chicago",
-    "Chongqing": "Asia/Shanghai",
-    "Cupertino": "America/Los_Angeles",
-    "Colorado": "America/Denver",
-    "Mikulov": "Europe/Prague",
-    "San Francisco Bay Area": "America/Los_Angeles",
-    "Spain": "Europe/Madrid",
-    "Rosmalen": "Europe/Amsterdam",
-    "Kiel": "Europe/Berlin",
-    "Kilkenny": "Europe/Dublin",
-    "Athens": "America/New_York",
-    "Addis Ababa": "Africa/Addis_Ababa",
-    "Wuppertal": "Europe/Berlin",
-    "Belgium": "Europe/Brussels",
-    "Kunming": "Asia/Shanghai",
-    "Karlsruhe": "Europe/Berlin",
-    "Chicago": "America/Chicago",
-    "Bandung": "Asia/Jakarta",
-    "Oak Park": "America/Chicago",
-    "Phoenixville": "America/New_York",
-    "Lützen": "Europe/Berlin",
-    "Budapest": "Europe/Budapest",
-    "CHN": "Europe/Istanbul",
-    "Georgia": "America/New_York",
-    "Nuremberg": "Europe/Berlin",
-    "Mumbai": "Asia/Kolkata",
-    "Islamabad": "Asia/Karachi",
-    "Leichlingen": "Europe/Berlin",
-    "Brisbane": "Australia/Brisbane",
-    "Redmond Washington USA": "America/Los_Angeles",
-    "America/Vancouver": "America/Los_Angeles",
-    "Melbourne": "Australia/Melbourne",
-    "Grenoble (France)": "Europe/Paris",
-    "Forlì": "Europe/Rome",
-    "Milan": "Europe/Rome",
-    "Espoo": "Europe/Helsinki",
-    "Southern California": "America/Los_Angeles",
-    "South Tyrol": "Europe/Rome",
-    "India": "Asia/Kolkata",
-    "Hot Springs": "America/Chicago",
-    "San Diego": "America/Los_Angeles",
-    "Cardiff": "Europe/London",
-    "Norway": "Europe/Oslo",
-    "Bend": "America/Los_Angeles",
-    "Wisconsin": "America/Chicago",
-    "Raleigh": "America/New_York",
-    "Arnhem": "Europe/Amsterdam",
-    "Stockholm": "Europe/Stockholm",
-    "Austin": "America/Chicago",
-    "Richmond": "America/New_York",
-    "SPb/BG/NYC": "Unknown",
-    "Frankfurt/Main (Germany)": "Europe/Berlin",
-    "Kitchener": "America/Toronto",
-    "Auckland": "Pacific/Auckland",
-    "Hungary": "Europe/Budapest",
-    "Taipei": "Asia/Taipei",
-    "Norwich": "Europe/London",
-    "New Orleans": "America/Chicago",
-    "Martock": "Europe/London",
-    "Boise ID": "America/Boise",
-    "Oakland CA": "America/Los_Angeles",
-    "Palisade": "America/Chicago",
-    "Lausanne": "Europe/Zurich",
-    "MDCC": "Europe/Berlin",
-    "Pittsburgh": "America/New_York",
-    "Waterloo": "America/Chicago",
-    "Lisbon": "Europe/Lisbon",
-    "Tallahassee": "America/New_York",
-    "Miami": "America/New_York",
-    "Amherst": "America/New_York",
-    "New Haven": "America/New_York",
-    "Madison": "America/Chicago",
-    "Sydney": "Australia/Sydney",
-    "Shenzhen": "Asia/Shanghai",
-    "Astrakhan": "Europe/Astrakhan",
-    "Boulder": "America/Denver",
-    "hangzhou": "Asia/Shanghai",
-    "Palo Alto": "America/Los_Angeles",
-    "China": "Asia/Shanghai",
-    "Shefford": "Europe/London",
-    "Finland": "Europe/Helsinki",
-    "Baltimore": "America/New_York",
-    "Russia": "Asia/Krasnoyarsk",
-    "São Paulo": "America/Sao_Paulo",
-    "Massachusetts": "America/New_York",
-    "Guadalajara": "America/Mexico_City",
-    "Lille": "Europe/Paris",
-    "Reading": "Europe/London",
-    "Nanjing": "Asia/Shanghai",
-    "Los Alamos": "America/Denver",
-    "Montréal": "America/Toronto",
-    "PEI": "America/Halifax",
-    "Tunisia": "Africa/Tunis",
-    "Illinois": "America/Chicago",
-    "Estonia": "Europe/Tallinn",
-    "London / UK": "Europe/London",
-    "Seville": "Europe/Madrid",
-    "Eugene": "America/Los_Angeles",
-    "Redwood City": "America/Los_Angeles",
-    "Krakow": "Europe/Warsaw",
-    "Toruń": "Europe/Warsaw",
-    "Victoria": "Australia/Melbourne",
-    "Menlo Park": "America/Los_Angeles",
-    "Kerem Re'im": "Asia/Jerusalem",
-    "Scotland": "Europe/London",
-    "mars": "Europe/Paris",
-    "Valencia": "Europe/Madrid",
-    "florida": "America/New_York",
-    "Shanghai/Hangzhou": "Asia/Shanghai",
-    "Québec": "America/Toronto",
-    "Liège": "Europe/Brussels",
-    "Vesuvius": "Europe/Rome",
-    "Rome": "Europe/Rome",
-    "NanJing": "Asia/Shanghai",
-    "Sevilla": "Europe/Madrid",
-    "Hangzhou China": "Asia/Shanghai",
-    "Delaware (but Philly at heart)": "Unknown",
-    "Villanova": "Europe/Paris",
-    "Cape Town": "Africa/Johannesburg",
-    "Osnabrück": "Europe/Berlin",
-    "HeFei China": "Asia/Shanghai",
-    "Oslo": "Europe/Oslo",
-    "Bavaria": "Europe/Berlin",
-    "Ljubljana": "Europe/Ljubljana",
-    "München": "Europe/Berlin",
-    "北京": "Asia/Shanghai",
-    "Europe": "Europe/Berlin",
-    "Lithuania": "Europe/Vilnius",
-    "Cracow": "Australia/Brisbane",
-    "Würzburg": "Europe/Berlin",
-    "Ulm": "Europe/Berlin"
+    "Houston": {
+        "timezone": "America/Chicago",
+        "latitude": 29.7589382,
+        "longitude": -95.3676974
+    },
+    "The Netherlands": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.24764975,
+        "longitude": 5.541246849406163
+    },
+    "Switzerland": {
+        "timezone": "Europe/Zurich",
+        "latitude": 46.7985624,
+        "longitude": 8.2319736
+    },
+    "Brooklyn": {
+        "timezone": "America/New_York",
+        "latitude": 40.6526006,
+        "longitude": -73.9497211
+    },
+    "Enschede": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.22336325,
+        "longitude": 6.870595664097989
+    },
+    "Spain": {
+        "timezone": "Europe/Madrid",
+        "latitude": 39.3260685,
+        "longitude": -4.8379791
+    },
+    "Germany": {
+        "timezone": "Europe/Berlin",
+        "latitude": 51.1638175,
+        "longitude": 10.4478313
+    },
+    "Utrecht": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.0907006,
+        "longitude": 5.1215634
+    },
+    "Boston": {
+        "timezone": "America/New_York",
+        "latitude": 42.3554334,
+        "longitude": -71.060511
+    },
+    "Philadelphia": {
+        "timezone": "America/New_York",
+        "latitude": 39.9527237,
+        "longitude": -75.1635262
+    },
+    "San Francisco": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.7792588,
+        "longitude": -122.4193286
+    },
+    "New York": {
+        "timezone": "America/New_York",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    "Hangzhou": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.2489634,
+        "longitude": 120.2052342
+    },
+    "Minneapolis": {
+        "timezone": "America/Chicago",
+        "latitude": 44.9772995,
+        "longitude": -93.2654692
+    },
+    "Grenoble": {
+        "timezone": "Europe/Paris",
+        "latitude": 45.1875602,
+        "longitude": 5.7357819
+    },
+    "UK": {
+        "timezone": "Africa/Bangui",
+        "latitude": 6.3110548,
+        "longitude": 20.5447525
+    },
+    "Canada": {
+        "timezone": "America/Edmonton",
+        "latitude": 61.0666922,
+        "longitude": -107.991707
+    },
+    "天堂度假村": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 18.2521192,
+        "longitude": 109.6213119
+    },
+    "Cambridge": {
+        "timezone": "Europe/London",
+        "latitude": 52.2055314,
+        "longitude": 0.1186637
+    },
+    "France": {
+        "timezone": "Europe/Paris",
+        "latitude": 46.603354,
+        "longitude": 1.8883335
+    },
+    "Netherlands": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.2434979,
+        "longitude": 5.6343227
+    },
+    "Sofia": {
+        "timezone": "Europe/Sofia",
+        "latitude": 42.6977028,
+        "longitude": 23.3217359
+    },
+    "Bothell": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 47.7623204,
+        "longitude": -122.2054035
+    },
+    "Malaysia": {
+        "timezone": "Asia/Kuala_Lumpur",
+        "latitude": 4.5693754,
+        "longitude": 102.2656823
+    },
+    "Turku": {
+        "timezone": "Europe/Helsinki",
+        "latitude": 60.4517531,
+        "longitude": 22.2670522
+    },
+    "South korea": {
+        "timezone": "Asia/Seoul",
+        "latitude": 36.638392,
+        "longitude": 127.6961188
+    },
+    "Pessac": {
+        "timezone": "Europe/Paris",
+        "latitude": 44.805615,
+        "longitude": -0.6308396
+    },
+    "Vancouver": {
+        "timezone": "America/Vancouver",
+        "latitude": 49.2608724,
+        "longitude": -123.113952
+    },
+    "Ueda": {
+        "timezone": "Asia/Tokyo",
+        "latitude": 36.4021192,
+        "longitude": 138.2490506
+    },
+    "Munich": {
+        "timezone": "Europe/Berlin",
+        "latitude": 48.1371079,
+        "longitude": 11.5753822
+    },
+    "Chengdu": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.6598628,
+        "longitude": 104.0633717
+    },
+    "Taiwan": {
+        "timezone": "Asia/Taipei",
+        "latitude": 23.5983227,
+        "longitude": 120.83537694479215
+    },
+    "HangZhou": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.2489634,
+        "longitude": 120.2052342
+    },
+    "Peking University": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 40.17336535,
+        "longitude": 116.15722001868669
+    },
+    "Paris": {
+        "timezone": "Europe/Paris",
+        "latitude": 48.8588897,
+        "longitude": 2.3200410217200766
+    },
+    "NYC": {
+        "timezone": "America/New_York",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    "Italy": {
+        "timezone": "Europe/Rome",
+        "latitude": 42.6384261,
+        "longitude": 12.674297
+    },
+    "Berlin": {
+        "timezone": "Europe/Berlin",
+        "latitude": 52.510885,
+        "longitude": 13.3989367
+    },
+    "Beijing": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 40.190632,
+        "longitude": 116.412144
+    },
+    "Zurich": {
+        "timezone": "Europe/Zurich",
+        "latitude": 47.3744489,
+        "longitude": 8.5410422
+    },
+    "Egypt": {
+        "timezone": "Africa/Cairo",
+        "latitude": 26.2540493,
+        "longitude": 29.2675469
+    },
+    "Sunnyvale": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.3688301,
+        "longitude": -122.036349
+    },
+    "London": {
+        "timezone": "Europe/London",
+        "latitude": 51.5074456,
+        "longitude": -0.1277653
+    },
+    "Montreal": {
+        "timezone": "America/Toronto",
+        "latitude": 45.5031824,
+        "longitude": -73.5698065
+    },
+    "Wellington": {
+        "timezone": "Pacific/Auckland",
+        "latitude": -41.2887953,
+        "longitude": 174.7772114
+    },
+    "Saskatchewan": {
+        "timezone": "America/Regina",
+        "latitude": 55.5321257,
+        "longitude": -106.141224
+    },
+    "Ghent": {
+        "timezone": "Europe/Brussels",
+        "latitude": 51.0538286,
+        "longitude": 3.7250121
+    },
+    "Beijing China": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 40.190632,
+        "longitude": 116.412144
+    },
+    "Poland": {
+        "timezone": "Europe/Warsaw",
+        "latitude": 52.215933,
+        "longitude": 19.134422
+    },
+    "Shanghai": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 31.2312707,
+        "longitude": 121.4700152
+    },
+    "Tokyo": {
+        "timezone": "Asia/Tokyo",
+        "latitude": 35.6768601,
+        "longitude": 139.7638947
+    },
+    "Kraków": {
+        "timezone": "Europe/Warsaw",
+        "latitude": 50.0619474,
+        "longitude": 19.9368564
+    },
+    "Stuttgart": {
+        "timezone": "Europe/Berlin",
+        "latitude": 48.7784485,
+        "longitude": 9.1800132
+    },
+    "Las Vegas": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 36.1672559,
+        "longitude": -115.148516
+    },
+    "Székesfehérvár": {
+        "timezone": "Europe/Budapest",
+        "latitude": 47.1910169,
+        "longitude": 18.410811
+    },
+    "Little Rock": {
+        "timezone": "America/Chicago",
+        "latitude": 34.7465071,
+        "longitude": -92.2896267
+    },
+    "Maranello": {
+        "timezone": "Europe/Rome",
+        "latitude": 44.5255217,
+        "longitude": 10.8663607
+    },
+    "Vienna": {
+        "timezone": "Europe/Vienna",
+        "latitude": 48.2083537,
+        "longitude": 16.3725042
+    },
+    "Los Angeles": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 34.0536909,
+        "longitude": -118.242766
+    },
+    "Aaramoun": {
+        "timezone": "Asia/Beirut",
+        "latitude": 33.761118,
+        "longitude": 35.5203387
+    },
+    "Warsaw": {
+        "timezone": "Europe/Warsaw",
+        "latitude": 52.2319581,
+        "longitude": 21.0067249
+    },
+    "United Kingdom": {
+        "timezone": "Europe/London",
+        "latitude": 54.7023545,
+        "longitude": -3.2765753
+    },
+    "Denmark": {
+        "timezone": "Europe/Copenhagen",
+        "latitude": 55.670249,
+        "longitude": 10.3333283
+    },
+    "Hong Kong": {
+        "timezone": "Asia/Hong_Kong",
+        "latitude": 22.350627,
+        "longitude": 114.1849161
+    },
+    "Troyes": {
+        "timezone": "Europe/Paris",
+        "latitude": 48.2971626,
+        "longitude": 4.0746257
+    },
+    "Bogota": {
+        "timezone": "America/Bogota",
+        "latitude": 4.6533816,
+        "longitude": -74.0836333
+    },
+    "Kanagawa": {
+        "timezone": "Asia/Tokyo",
+        "latitude": 35.4342935,
+        "longitude": 139.374753
+    },
+    "undefined": {
+        "timezone": "Africa/Addis_Ababa",
+        "latitude": 9.014304,
+        "longitude": 38.725531292647176
+    },
+    "San Jose": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.3361663,
+        "longitude": -121.890591
+    },
+    "Dubai": {
+        "timezone": "Asia/Dubai",
+        "latitude": 25.2653471,
+        "longitude": 55.2924914
+    },
+    "Lyon": {
+        "timezone": "Europe/Paris",
+        "latitude": 45.7578137,
+        "longitude": 4.8320114
+    },
+    "California": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 36.7014631,
+        "longitude": -118.755997
+    },
+    "United States": {
+        "timezone": "America/Chicago",
+        "latitude": 39.7837304,
+        "longitude": -100.445882
+    },
+    "Helsinki": {
+        "timezone": "Europe/Helsinki",
+        "latitude": 60.1674881,
+        "longitude": 24.9427473
+    },
+    "Idaho Falls": {
+        "timezone": "America/Boise",
+        "latitude": 43.4887907,
+        "longitude": -112.03628
+    },
+    "Seattle": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 47.6038321,
+        "longitude": -122.330062
+    },
+    "Genoa": {
+        "timezone": "Europe/Rome",
+        "latitude": 44.40726,
+        "longitude": 8.9338624
+    },
+    "Cuenca": {
+        "timezone": "Europe/Madrid",
+        "latitude": 40.0661031,
+        "longitude": -2.1313528
+    },
+    "Toronto": {
+        "timezone": "America/Toronto",
+        "latitude": 43.6534817,
+        "longitude": -79.3839347
+    },
+    "Sweden": {
+        "timezone": "Europe/Stockholm",
+        "latitude": 59.6749712,
+        "longitude": 14.5208584
+    },
+    "Japan": {
+        "timezone": "Asia/Tokyo",
+        "latitude": 36.5748441,
+        "longitude": 139.2394179
+    },
+    "Copenhagen": {
+        "timezone": "Europe/Copenhagen",
+        "latitude": 55.6867243,
+        "longitude": 12.5700724
+    },
+    "Kolkata": {
+        "timezone": "Asia/Kolkata",
+        "latitude": 22.5726459,
+        "longitude": 88.3638953
+    },
+    "Prague": {
+        "timezone": "Europe/Prague",
+        "latitude": 50.0596288,
+        "longitude": 14.446459273258009
+    },
+    "Texas": {
+        "timezone": "America/Chicago",
+        "latitude": 31.2638905,
+        "longitude": -98.5456116
+    },
+    "Amsterdam": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.3730796,
+        "longitude": 4.8924534
+    },
+    "Australia": {
+        "timezone": "Australia/Darwin",
+        "latitude": -24.7761086,
+        "longitude": 134.755
+    },
+    "Quebec": {
+        "timezone": "America/Toronto",
+        "latitude": 52.4760892,
+        "longitude": -71.8258668
+    },
+    "Weinheim": {
+        "timezone": "Europe/Berlin",
+        "latitude": 49.5462349,
+        "longitude": 8.6717458
+    },
+    "Redmond": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 47.6694141,
+        "longitude": -122.1238767
+    },
+    "Oxford": {
+        "timezone": "Europe/London",
+        "latitude": 51.7520131,
+        "longitude": -1.2578499
+    },
+    "Hillsborough": {
+        "timezone": "America/New_York",
+        "latitude": 27.9184543,
+        "longitude": -82.3488057
+    },
+    "Graz": {
+        "timezone": "Europe/Vienna",
+        "latitude": 47.0708678,
+        "longitude": 15.4382786
+    },
+    "Bordeaux": {
+        "timezone": "Europe/Paris",
+        "latitude": 44.841225,
+        "longitude": -0.5800364
+    },
+    "Madrid": {
+        "timezone": "Europe/Madrid",
+        "latitude": 40.4167047,
+        "longitude": -3.7035825
+    },
+    "Dresden": {
+        "timezone": "Europe/Berlin",
+        "latitude": 51.0493286,
+        "longitude": 13.7381437
+    },
+    "nyc": {
+        "timezone": "America/New_York",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    "Dunedin": {
+        "timezone": "Pacific/Auckland",
+        "latitude": -45.8740984,
+        "longitude": 170.5035755
+    },
+    "Toulouse": {
+        "timezone": "Europe/Paris",
+        "latitude": 43.6044622,
+        "longitude": 1.4442469
+    },
+    "Washington State": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 47.2868352,
+        "longitude": -120.212613
+    },
+    "Glasgow": {
+        "timezone": "Europe/London",
+        "latitude": 55.861155,
+        "longitude": -4.2501687
+    },
+    "New Zealand": {
+        "timezone": "Pacific/Auckland",
+        "latitude": -41.5000831,
+        "longitude": 172.8344077
+    },
+    "Berkeley": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.8708393,
+        "longitude": -122.272863
+    },
+    "Wah Cantt": {
+        "timezone": "Asia/Karachi",
+        "latitude": 33.73721455,
+        "longitude": 72.79886300000001
+    },
+    "Brazil": {
+        "timezone": "America/Cuiaba",
+        "latitude": -10.3333333,
+        "longitude": -53.2
+    },
+    "Peking": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 40.190632,
+        "longitude": 116.412144
+    },
+    "Nairobi": {
+        "timezone": "Africa/Nairobi",
+        "latitude": -1.2832533,
+        "longitude": 36.8172449
+    },
+    "Winnipeg": {
+        "timezone": "America/Winnipeg",
+        "latitude": 49.8955367,
+        "longitude": -97.1384584
+    },
+    "Portland": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 45.5202471,
+        "longitude": -122.674194
+    },
+    "Zürich": {
+        "timezone": "Europe/Zurich",
+        "latitude": 47.3744489,
+        "longitude": 8.5410422
+    },
+    "Austria": {
+        "timezone": "Europe/Vienna",
+        "latitude": 47.59397,
+        "longitude": 14.12456
+    },
+    "Arkansas": {
+        "timezone": "America/Chicago",
+        "latitude": 35.2048883,
+        "longitude": -92.4479108
+    },
+    "Moscow": {
+        "timezone": "Europe/Moscow",
+        "latitude": 55.625578,
+        "longitude": 37.6063916
+    },
+    "Appleton": {
+        "timezone": "America/Chicago",
+        "latitude": 44.2613967,
+        "longitude": -88.4069744
+    },
+    "Joinville": {
+        "timezone": "Europe/Paris",
+        "latitude": 48.4433253,
+        "longitude": 5.1377537
+    },
+    "Kaiserslautern": {
+        "timezone": "Europe/Berlin",
+        "latitude": 49.4432174,
+        "longitude": 7.7689951
+    },
+    "Vietnam": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "latitude": 15.9266657,
+        "longitude": 107.9650855
+    },
+    "Singapore": {
+        "timezone": "Asia/Singapore",
+        "latitude": 1.357107,
+        "longitude": 103.8194992
+    },
+    "Princeton": {
+        "timezone": "America/New_York",
+        "latitude": 40.3496953,
+        "longitude": -74.6597376
+    },
+    "Portugal": {
+        "timezone": "Europe/Lisbon",
+        "latitude": 39.6621648,
+        "longitude": -8.1353519
+    },
+    "Canberra": {
+        "timezone": "Australia/Sydney",
+        "latitude": -35.2975906,
+        "longitude": 149.1012676
+    },
+    "Czechia": {
+        "timezone": "Europe/Prague",
+        "latitude": 49.7439047,
+        "longitude": 15.3381061
+    },
+    "Veliko Tarnovo": {
+        "timezone": "Europe/Sofia",
+        "latitude": 43.0820584,
+        "longitude": 25.6321312
+    },
+    "Mountain View": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.3893889,
+        "longitude": -122.0832101
+    },
+    "Turkey": {
+        "timezone": "Europe/Istanbul",
+        "latitude": 38.9597594,
+        "longitude": 34.9249653
+    },
+    "Sunshine Coast": {
+        "timezone": "Australia/Brisbane",
+        "latitude": -26.6544338,
+        "longitude": 153.0933668
+    },
+    "Cologne": {
+        "timezone": "Europe/Paris",
+        "latitude": 43.7218277,
+        "longitude": 0.9774958
+    },
+    "USA": {
+        "timezone": "America/Chicago",
+        "latitude": 39.7837304,
+        "longitude": -100.445882
+    },
+    "Chongqing": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.05518,
+        "longitude": 107.8748712
+    },
+    "Cupertino": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.3228934,
+        "longitude": -122.0322895
+    },
+    "Colorado": {
+        "timezone": "America/Denver",
+        "latitude": 38.7251776,
+        "longitude": -105.607716
+    },
+    "Mikulov": {
+        "timezone": "Europe/Prague",
+        "latitude": 48.8068577,
+        "longitude": 16.6383914
+    },
+    "San Francisco Bay Area": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.7884969,
+        "longitude": -122.3558473
+    },
+    "Rosmalen": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 51.71866,
+        "longitude": 5.3629244
+    },
+    "Kiel": {
+        "timezone": "Europe/Berlin",
+        "latitude": 54.3227085,
+        "longitude": 10.135555
+    },
+    "Kilkenny": {
+        "timezone": "Europe/Dublin",
+        "latitude": 52.6506255,
+        "longitude": -7.2514438
+    },
+    "Athens": {
+        "timezone": "America/New_York",
+        "latitude": 33.9597677,
+        "longitude": -83.376398
+    },
+    "Addis Ababa": {
+        "timezone": "Africa/Addis_Ababa",
+        "latitude": 9.0358287,
+        "longitude": 38.7524127
+    },
+    "Wuppertal": {
+        "timezone": "Europe/Berlin",
+        "latitude": 51.264018,
+        "longitude": 7.1780374
+    },
+    "Belgium": {
+        "timezone": "Europe/Brussels",
+        "latitude": 50.6402809,
+        "longitude": 4.6667145
+    },
+    "Kunming": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 25.0363006,
+        "longitude": 102.7086139
+    },
+    "Karlsruhe": {
+        "timezone": "Europe/Berlin",
+        "latitude": 49.0068705,
+        "longitude": 8.4034195
+    },
+    "Chicago": {
+        "timezone": "America/Chicago",
+        "latitude": 41.8755616,
+        "longitude": -87.6244212
+    },
+    "Bandung": {
+        "timezone": "Asia/Jakarta",
+        "latitude": -6.9215529,
+        "longitude": 107.6110212
+    },
+    "Oak Park": {
+        "timezone": "America/Chicago",
+        "latitude": 41.8878145,
+        "longitude": -87.7887615
+    },
+    "Phoenixville": {
+        "timezone": "America/New_York",
+        "latitude": 40.1303822,
+        "longitude": -75.5149128
+    },
+    "Lützen": {
+        "timezone": "Europe/Berlin",
+        "latitude": 51.2585623,
+        "longitude": 12.1459521
+    },
+    "Budapest": {
+        "timezone": "Europe/Budapest",
+        "latitude": 47.4978789,
+        "longitude": 19.0402383
+    },
+    "CHN": {
+        "timezone": "Europe/Istanbul",
+        "latitude": 38.4170278,
+        "longitude": 27.1285718
+    },
+    "Georgia": {
+        "timezone": "America/New_York",
+        "latitude": 32.3293809,
+        "longitude": -83.1137366
+    },
+    "Nuremberg": {
+        "timezone": "Europe/Berlin",
+        "latitude": 49.453872,
+        "longitude": 11.077298
+    },
+    "Mumbai": {
+        "timezone": "Asia/Kolkata",
+        "latitude": 19.054999,
+        "longitude": 72.8692035
+    },
+    "Islamabad": {
+        "timezone": "Asia/Karachi",
+        "latitude": 33.6938118,
+        "longitude": 73.0651511
+    },
+    "Leichlingen": {
+        "timezone": "Europe/Berlin",
+        "latitude": 51.1059639,
+        "longitude": 7.0140304
+    },
+    "Brisbane": {
+        "timezone": "Australia/Brisbane",
+        "latitude": -27.4689682,
+        "longitude": 153.0234991
+    },
+    "Redmond Washington USA": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 47.6694141,
+        "longitude": -122.1238767
+    },
+    "America/Vancouver": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 45.6306954,
+        "longitude": -122.6744557
+    },
+    "Melbourne": {
+        "timezone": "Australia/Melbourne",
+        "latitude": -37.8142454,
+        "longitude": 144.9631732
+    },
+    "Grenoble (France)": {
+        "timezone": "Europe/Paris",
+        "latitude": 45.1875602,
+        "longitude": 5.7357819
+    },
+    "Forlì": {
+        "timezone": "Europe/Rome",
+        "latitude": 44.2227278,
+        "longitude": 12.041273
+    },
+    "Milan": {
+        "timezone": "Europe/Rome",
+        "latitude": 45.4641943,
+        "longitude": 9.1896346
+    },
+    "Espoo": {
+        "timezone": "Europe/Helsinki",
+        "latitude": 60.2047672,
+        "longitude": 24.6568435
+    },
+    "Southern California": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 34.169262950000004,
+        "longitude": -116.787448181486
+    },
+    "South Tyrol": {
+        "timezone": "Europe/Rome",
+        "latitude": 46.655945450000004,
+        "longitude": 11.23021287087526
+    },
+    "India": {
+        "timezone": "Asia/Kolkata",
+        "latitude": 22.3511148,
+        "longitude": 78.6677428
+    },
+    "Hot Springs": {
+        "timezone": "America/Chicago",
+        "latitude": 34.5038393,
+        "longitude": -93.0552437
+    },
+    "San Diego": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 32.7174202,
+        "longitude": -117.162772
+    },
+    "Cardiff": {
+        "timezone": "Europe/London",
+        "latitude": 51.4816546,
+        "longitude": -3.1791934
+    },
+    "Norway": {
+        "timezone": "Europe/Oslo",
+        "latitude": 64.5731537,
+        "longitude": 11.52803643954819
+    },
+    "Bend": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 44.0581728,
+        "longitude": -121.3153096
+    },
+    "Wisconsin": {
+        "timezone": "America/Chicago",
+        "latitude": 44.4308975,
+        "longitude": -89.6884637
+    },
+    "Raleigh": {
+        "timezone": "America/New_York",
+        "latitude": 35.7803977,
+        "longitude": -78.6390989
+    },
+    "Arnhem": {
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.0056642,
+        "longitude": 5.8762345077641305
+    },
+    "Stockholm": {
+        "timezone": "Europe/Stockholm",
+        "latitude": 59.3251172,
+        "longitude": 18.0710935
+    },
+    "Austin": {
+        "timezone": "America/Chicago",
+        "latitude": 30.2711286,
+        "longitude": -97.7436995
+    },
+    "Richmond": {
+        "timezone": "America/New_York",
+        "latitude": 37.5385087,
+        "longitude": -77.43428
+    },
+    "SPb/BG/NYC": {
+        "timezone": "Unknown",
+        "latitude": null,
+        "longitude": null
+    },
+    "Frankfurt/Main (Germany)": {
+        "timezone": "Europe/Berlin",
+        "latitude": 50.1106444,
+        "longitude": 8.6820917
+    },
+    "Kitchener": {
+        "timezone": "America/Toronto",
+        "latitude": 43.451291,
+        "longitude": -80.4927815
+    },
+    "Auckland": {
+        "timezone": "Pacific/Auckland",
+        "latitude": -36.852095,
+        "longitude": 174.7631803
+    },
+    "Hungary": {
+        "timezone": "Europe/Budapest",
+        "latitude": 47.1817585,
+        "longitude": 19.5060937
+    },
+    "Taipei": {
+        "timezone": "Asia/Taipei",
+        "latitude": 25.0375198,
+        "longitude": 121.5636796
+    },
+    "Norwich": {
+        "timezone": "Europe/London",
+        "latitude": 52.6285576,
+        "longitude": 1.2923954
+    },
+    "New Orleans": {
+        "timezone": "America/Chicago",
+        "latitude": 29.9759983,
+        "longitude": -90.0782127
+    },
+    "Martock": {
+        "timezone": "Europe/London",
+        "latitude": 50.9710694,
+        "longitude": -2.766543
+    },
+    "Boise ID": {
+        "timezone": "America/Boise",
+        "latitude": 43.6166163,
+        "longitude": -116.200886
+    },
+    "Oakland CA": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.8044557,
+        "longitude": -122.271356
+    },
+    "Palisade": {
+        "timezone": "America/Chicago",
+        "latitude": 46.7132862,
+        "longitude": -93.4885687
+    },
+    "Lausanne": {
+        "timezone": "Europe/Zurich",
+        "latitude": 46.5218269,
+        "longitude": 6.6327025
+    },
+    "MDCC": {
+        "timezone": "Europe/Berlin",
+        "latitude": 52.13689415,
+        "longitude": 11.64205838222394
+    },
+    "Pittsburgh": {
+        "timezone": "America/New_York",
+        "latitude": 40.4416941,
+        "longitude": -79.9900861
+    },
+    "Waterloo": {
+        "timezone": "America/Chicago",
+        "latitude": 42.498275,
+        "longitude": -92.3328743
+    },
+    "Lisbon": {
+        "timezone": "Europe/Lisbon",
+        "latitude": 38.7077507,
+        "longitude": -9.1365919
+    },
+    "Tallahassee": {
+        "timezone": "America/New_York",
+        "latitude": 30.4380832,
+        "longitude": -84.2809332
+    },
+    "Miami": {
+        "timezone": "America/New_York",
+        "latitude": 25.7820042,
+        "longitude": -80.22256438834017
+    },
+    "Amherst": {
+        "timezone": "America/New_York",
+        "latitude": 42.3731948,
+        "longitude": -72.5198761
+    },
+    "New Haven": {
+        "timezone": "America/New_York",
+        "latitude": 41.3082138,
+        "longitude": -72.9250518
+    },
+    "Madison": {
+        "timezone": "America/Chicago",
+        "latitude": 43.074761,
+        "longitude": -89.3837613
+    },
+    "Sydney": {
+        "timezone": "Australia/Sydney",
+        "latitude": -33.8698439,
+        "longitude": 151.2082848
+    },
+    "Shenzhen": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 22.5445741,
+        "longitude": 114.0545429
+    },
+    "Astrakhan": {
+        "timezone": "Europe/Astrakhan",
+        "latitude": 46.3498308,
+        "longitude": 48.0326203
+    },
+    "Boulder": {
+        "timezone": "America/Denver",
+        "latitude": 40.0149856,
+        "longitude": -105.270545
+    },
+    "hangzhou": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.2489634,
+        "longitude": 120.2052342
+    },
+    "Palo Alto": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.4443293,
+        "longitude": -122.1598465
+    },
+    "China": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 35.0000663,
+        "longitude": 104.999955
+    },
+    "Shefford": {
+        "timezone": "Europe/London",
+        "latitude": 52.0384063,
+        "longitude": -0.3355203
+    },
+    "Finland": {
+        "timezone": "Europe/Helsinki",
+        "latitude": 63.2467777,
+        "longitude": 25.9209164
+    },
+    "Baltimore": {
+        "timezone": "America/New_York",
+        "latitude": 39.2908816,
+        "longitude": -76.610759
+    },
+    "Russia": {
+        "timezone": "Asia/Krasnoyarsk",
+        "latitude": 64.6863136,
+        "longitude": 97.7453061
+    },
+    "São Paulo": {
+        "timezone": "America/Sao_Paulo",
+        "latitude": -23.5506507,
+        "longitude": -46.6333824
+    },
+    "Massachusetts": {
+        "timezone": "America/New_York",
+        "latitude": 42.3788774,
+        "longitude": -72.032366
+    },
+    "Guadalajara": {
+        "timezone": "America/Mexico_City",
+        "latitude": 20.6720375,
+        "longitude": -103.338396
+    },
+    "Lille": {
+        "timezone": "Europe/Paris",
+        "latitude": 50.6365654,
+        "longitude": 3.0635282
+    },
+    "Reading": {
+        "timezone": "Europe/London",
+        "latitude": 51.4564242,
+        "longitude": -0.9700664
+    },
+    "Nanjing": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 32.0438284,
+        "longitude": 118.7788631
+    },
+    "Los Alamos": {
+        "timezone": "America/Denver",
+        "latitude": 35.88137,
+        "longitude": -106.298959
+    },
+    "Montréal": {
+        "timezone": "America/Toronto",
+        "latitude": 45.5031824,
+        "longitude": -73.5698065
+    },
+    "PEI": {
+        "timezone": "America/Halifax",
+        "latitude": 46.3355508,
+        "longitude": -63.1466676
+    },
+    "Tunisia": {
+        "timezone": "Africa/Tunis",
+        "latitude": 36.8002068,
+        "longitude": 10.1857757
+    },
+    "Illinois": {
+        "timezone": "America/Chicago",
+        "latitude": 40.0796606,
+        "longitude": -89.4337288
+    },
+    "Estonia": {
+        "timezone": "Europe/Tallinn",
+        "latitude": 58.7523778,
+        "longitude": 25.3319078
+    },
+    "London / UK": {
+        "timezone": "Europe/London",
+        "latitude": 51.4893335,
+        "longitude": -0.14405508452768728
+    },
+    "Seville": {
+        "timezone": "Europe/Madrid",
+        "latitude": 37.3886303,
+        "longitude": -5.9953403
+    },
+    "Eugene": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 44.0505054,
+        "longitude": -123.0950506
+    },
+    "Redwood City": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.4863239,
+        "longitude": -122.232523
+    },
+    "Krakow": {
+        "timezone": "Europe/Warsaw",
+        "latitude": 50.0619474,
+        "longitude": 19.9368564
+    },
+    "Toruń": {
+        "timezone": "Europe/Warsaw",
+        "latitude": 53.0145361,
+        "longitude": 18.596583144651557
+    },
+    "Victoria": {
+        "timezone": "Australia/Melbourne",
+        "latitude": -36.5986096,
+        "longitude": 144.6780052
+    },
+    "Menlo Park": {
+        "timezone": "America/Los_Angeles",
+        "latitude": 37.4519671,
+        "longitude": -122.177992
+    },
+    "Kerem Re'im": {
+        "timezone": "Asia/Jerusalem",
+        "latitude": 31.9587213,
+        "longitude": 35.1380823
+    },
+    "Scotland": {
+        "timezone": "Europe/London",
+        "latitude": 56.7861112,
+        "longitude": -4.1140518
+    },
+    "mars": {
+        "timezone": "Europe/Paris",
+        "latitude": 45.022172,
+        "longitude": 4.3221548
+    },
+    "Valencia": {
+        "timezone": "Europe/Madrid",
+        "latitude": 39.4697065,
+        "longitude": -0.3763353
+    },
+    "florida": {
+        "timezone": "America/New_York",
+        "latitude": 27.7567667,
+        "longitude": -81.4639835
+    },
+    "Shanghai/Hangzhou": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.431722649999998,
+        "longitude": 121.41068755909475
+    },
+    "Québec": {
+        "timezone": "America/Toronto",
+        "latitude": 52.4760892,
+        "longitude": -71.8258668
+    },
+    "Liège": {
+        "timezone": "Europe/Brussels",
+        "latitude": 50.6450944,
+        "longitude": 5.5736112
+    },
+    "Vesuvius": {
+        "timezone": "Europe/Rome",
+        "latitude": 40.8213963,
+        "longitude": 14.4261967
+    },
+    "Rome": {
+        "timezone": "Europe/Rome",
+        "latitude": 41.8933203,
+        "longitude": 12.4829321
+    },
+    "NanJing": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 32.0438284,
+        "longitude": 118.7788631
+    },
+    "Sevilla": {
+        "timezone": "Europe/Madrid",
+        "latitude": 37.3886303,
+        "longitude": -5.9953403
+    },
+    "Hangzhou China": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 30.2489634,
+        "longitude": 120.2052342
+    },
+    "Delaware (but Philly at heart)": {
+        "timezone": "Unknown",
+        "latitude": null,
+        "longitude": null
+    },
+    "Villanova": {
+        "timezone": "Europe/Paris",
+        "latitude": 41.9591678,
+        "longitude": 8.668422
+    },
+    "Cape Town": {
+        "timezone": "Africa/Johannesburg",
+        "latitude": -33.9288301,
+        "longitude": 18.4172197
+    },
+    "Osnabrück": {
+        "timezone": "Europe/Berlin",
+        "latitude": 52.2719595,
+        "longitude": 8.047635
+    },
+    "HeFei China": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 31.8665676,
+        "longitude": 117.281428
+    },
+    "Oslo": {
+        "timezone": "Europe/Oslo",
+        "latitude": 59.9133301,
+        "longitude": 10.7389701
+    },
+    "Bavaria": {
+        "timezone": "Europe/Berlin",
+        "latitude": 48.9467562,
+        "longitude": 11.4038717
+    },
+    "Ljubljana": {
+        "timezone": "Europe/Ljubljana",
+        "latitude": 46.0500268,
+        "longitude": 14.5069289
+    },
+    "München": {
+        "timezone": "Europe/Berlin",
+        "latitude": 48.1371079,
+        "longitude": 11.5753822
+    },
+    "北京": {
+        "timezone": "Asia/Shanghai",
+        "latitude": 40.190632,
+        "longitude": 116.412144
+    },
+    "Europe": {
+        "timezone": "Europe/Berlin",
+        "latitude": 51.0,
+        "longitude": 10.0
+    },
+    "Lithuania": {
+        "timezone": "Europe/Vilnius",
+        "latitude": 55.3500003,
+        "longitude": 23.7499997
+    },
+    "Cracow": {
+        "timezone": "Australia/Brisbane",
+        "latitude": -25.330132499999998,
+        "longitude": 150.29240746995595
+    },
+    "Würzburg": {
+        "timezone": "Europe/Berlin",
+        "latitude": 49.7780356,
+        "longitude": 9.943476907125579
+    },
+    "Ulm": {
+        "timezone": "Europe/Berlin",
+        "latitude": 48.3984968,
+        "longitude": 9.9912458
+    }
 }
